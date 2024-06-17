@@ -6,7 +6,7 @@
         <Nullable>enable</Nullable>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <PackageId>Dawud.Extensions.GeneralExtensions</PackageId>
-        <Version>1.0.0</Version>
+        <Version>1.0.1</Version>
         <Authors>Dawud Hussein</Authors>
         <Description>General purpose extensions for .NET projects.</Description>
         <PackageTags>extensions;general;utility</PackageTags>
